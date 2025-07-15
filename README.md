@@ -1,4 +1,4 @@
-# 🧠 Hi, I’m Mugi
+# 🧠 Hi, I’m Mauricio D
 
 Welcome to my GitHub.
 
