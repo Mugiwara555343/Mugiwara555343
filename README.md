@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 I’m building a **modular AI memory system** that runs entirely offline — using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU-aware orchestration.
 
-### 🔗 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)  
+### 🔗 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt) 🤖
 This GPT helps coordinate tasks across my models. It exists because I couldn’t manage it all myself — so I built something that could.
  
  ---
