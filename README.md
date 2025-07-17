@@ -6,11 +6,8 @@ I’m building a **modular AI memory system** that runs entirely offline — usi
 
 ### 🔗 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)  
 This GPT helps coordinate tasks across my models. It exists because I couldn’t manage it all myself — so I built something that could.
-
-### [LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/) 
  
-
----
+ ---
 
 ## 🧩 Core Ideas
 
@@ -27,5 +24,7 @@ This GPT helps coordinate tasks across my models. It exists because I couldn’t
 - Web dashboard with live GPU routing
 - Docker containers per node
 - Voice-to-memory pipelines (Whisper + Ollama)
+
+## 🪪 [LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/) 
 
 Thanks for stopping by ✌️
