@@ -5,14 +5,14 @@ Welcome to my GitHub.
 Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline, using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
  
 
- ## 💡Ideas/Projects Completed and Upcoming  
+ ## 💡Ideas/Projects Completed  
 
 - Chained multiple local models together (Capybara → Hermes → MythoMax)
 - Used Python and JSON files to process and reflect on memory logs — emotion, tone, summaries (parser.py, watcher.py)
 - Using Docker to run Ollama, Open Web UI, n8n, & more
 - Open Web UI is tunneled with cloudflare and accessed on a domain
 
-## ⏳ (In Progress)
+## ⏳ (In Progress/Upcoming)
 - Sky Watcher, uses data from api.nasa.gov (comets, meteors, etc) and logs fed into custom LLM and saved
 - Local App that transcribes voice or other parties, while being fed to LLM, then being processsed and showing real-time suggesttions
 - Auto downloader for Instagrams saved reels
