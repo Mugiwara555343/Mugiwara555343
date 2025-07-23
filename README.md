@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline — using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
+Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline, using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
  
 
  ## 🧩 Ideas/Projects Completed and Upcoming  
