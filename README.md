@@ -15,7 +15,7 @@ Currenltly, my main focus Is on building a **modular AI memory system** that run
 ## ⏳ (In Progress)
 - Sky Watcher, uses data from api.nasa.gov (comets, meteors, etc) and logs fed into custom LLM and saved
 - Local App that transcribes voice or other parties, while being fed to LLM, then being processsed and showing real-time suggesttions
-- Auto Instagram downloads from saved files
+- Auto downloader for Instagrams saved reels
 
 
 ## 🎥 [Watcher & Parser Demo Run](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
