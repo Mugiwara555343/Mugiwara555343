@@ -5,7 +5,7 @@ Welcome to my GitHub.
 Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline, using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
  
 
- ## 🧩 Ideas/Projects Completed and Upcoming  
+ ## 💡Ideas/Projects Completed and Upcoming  
 
 - Chained multiple local models together (Capybara → Hermes → MythoMax)
 - Used Python and JSON files to process and reflect on memory logs — emotion, tone, summaries (parser.py, watcher.py)
@@ -19,6 +19,8 @@ Currenltly, my main focus Is on building a **modular AI memory system** that run
 
 
 ## 🎥 [Watcher & Parser Demo Run](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
+
+In this 2-minute demo, I show a key component of a local-first AI memory system I built from scratch. This is part of a larger assistant architecture I’m building to support intelligent memory recall and context awareness—entirely offline and locally owned.
 
 
 ## 👉 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
