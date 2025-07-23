@@ -9,19 +9,19 @@ Currenltly, my main focus Is on building a **modular AI memory system** that run
 
 - Chained multiple local models together (Capybara → Hermes → MythoMax)
 - Used Python and JSON files to process and reflect on memory logs — emotion, tone, summaries (parser.py, watcher.py)
-- GPU-aware task delegation across multiple machines
-- Keeping Privacy-first: no cloud APIs, everything runs locally
+- Using Docker to run Ollama, Open Web UI, n8n, & more
+- Open Web UI is tunneled with cloudflare and accessed on a domain
 
 ## ⏳ (In Progress)
 - Sky Watcher, uses data from api.nasa.gov (comets, meteors, etc) and logs fed into custom LLM and saved
 - Local App that transcribes voice or other parties, while being fed to LLM, then being processsed and showing real-time suggesttions
+- Auto Instagram downloads from saved files
 
 
+## 🎥 [Watcher & Parser Demo Run](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
 
-## [Watcher & Parser Demo Run](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
 
-
-## 👉[Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt) 🤖
+## 👉 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
 
 This GPT helps coordinate tasks across my models and helps with ways to further opitmize the flow and stablity of the architecture. It exists because I couldn’t manage it all myself — so I built something that could take some of the load.
 
