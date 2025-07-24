@@ -5,7 +5,7 @@ Welcome to my GitHub.
 Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline, using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
  
 
- ## 💡Ideas/Projects Completed  
+ ## 💡Projects Completed  
 
 - Chained multiple local models together (Capybara → Hermes → MythoMax)
 - Used Python and JSON files to process and reflect on memory logs — emotion, tone, summaries (parser.py, watcher.py)
