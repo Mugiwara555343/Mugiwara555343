@@ -9,7 +9,7 @@ Currently, I am developing a memory-driven, modular, local-first AI assistant sy
 ## 🧩 Core Projects
 
 - **Multi-Model Chaining**  
-  Routed Capybara → Hermes → MythoMax for task-specific coordination  
+  Routed Capybara → OpenChat_3.5  for task-specific coordination  
 - **Memory Parser + Watcher System**  
   Custom Python scripts (`parser.py`, `watcher.py`) that process memory logs in `.json`/`.md`, summarize tone, emotion, and intent  
 - **Docker-Based AI Stack**  
