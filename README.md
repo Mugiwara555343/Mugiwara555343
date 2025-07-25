@@ -30,7 +30,7 @@ Currently, I am developing a memory-driven, modular, local-first AI assistant sy
 
 ---
 
-## 🎥 [🧠 Watcher & Parser Demo (2 min)](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
+## 🎥 [Watcher & Parser Demo (2 min)](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
 
 A core piece of my offline AI system in motion — local memory logs being parsed and processed in real time.
 
