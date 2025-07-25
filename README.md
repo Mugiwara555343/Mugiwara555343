@@ -1,42 +1,62 @@
-  # Hey there, I’m Mauricio V
+# 👋 Hey there, I’m Mauricio V
 
 Welcome to my GitHub.
 
-Currenltly, my main focus Is on building a **modular AI memory system** that runs entirely offline, using multiple LLMs across my own hardware, with full routing, memory persistence, and GPU and RAM management.
- 
+Currently, I am developing a memory-driven, modular, local-first AI assistant system that uses several LLMs on my own hardware and operates completely offline. It has persistent memory logs, GPU/RAM-aware orchestration, and complete routing logic.
 
- ## 💡Projects Completed  
+---
 
-- Chained multiple local models together (Capybara → Hermes → MythoMax)
-- Used Python and JSON files to process and reflect on memory logs — emotion, tone, summaries (parser.py, watcher.py)
-- Using Docker to run Ollama, Open Web UI, n8n, & more
-- Open Web UI is tunneled with cloudflare and accessed on a domain
+## 🧩 Core Projects
 
-## ⏳ (In Progress/Upcoming)
-- Sky Watcher, uses data from api.nasa.gov (comets, meteors, etc) and logs fed into custom LLM and saved
-- Local App that transcribes voice or other parties, while being fed to LLM, then being processsed and showing real-time suggesttions
-- Auto downloader for Instagrams saved reels
+- 🔗 **Multi-Model Chaining**  
+  Routed Capybara → Hermes → MythoMax for task-specific coordination  
+- 🧠 **Memory Parser + Watcher System**  
+  Custom Python scripts (`parser.py`, `watcher.py`) that process memory logs in `.json`/`.md`, summarize tone, emotion, and intent  
+- 🐳 **Docker-Based AI Stack**  
+  Running Ollama, Open Web UI, and `n8n` in isolated containers  
+- 🌐 **Live Remote Access**  
+  Cloudflare tunnel connects Open Web UI to a secure public domain
 
+---
 
-## 🎥 [Watcher & Parser Demo Run](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
+## ⚙️ In Progress
 
-In this 2-minute demo, I show a key component of a local-first AI memory system I built from scratch. This is part of a larger assistant architecture I’m building to support intelligent memory recall and context awareness—entirely offline and locally owned.
+- 🔭 **SkyWatcher**  
+  Pulls live data from `api.nasa.gov` (meteors, comets, etc) → parsed into LLM for insight logging  
+- 🎙️ **Voice Transcriber + LLM Feedback Loop**  
+  Captures real-time audio → transcribes → routes to LLM → provides live context and suggestions  
+- 📥 **Auto-Reel Downloader**  
+  Local script for auto-downloading Instagram saved reels using headless methods
 
+---
 
-## 👉 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
+## 🎥 [🧠 Watcher & Parser Demo (2 min)](https://m.youtube.com/watch?v=XArldnlAzNk&feature=youtu.be)
 
-This GPT helps coordinate tasks across my models and helps with ways to further opitmize the flow and stablity of the architecture. It exists because I couldn’t manage it all myself — so I built something that could take some of the load.
+A core piece of my offline AI system in motion — local memory logs being parsed and processed in real time.
 
+---
 
-## 🖥️ Mostly Powered by:
-`FastAPI`, `text-generation-webui`, `Open AI` `Ollama`, `FastAPI`, `Gradio`, `LM Studio` and way too many `Python` & `JSON` files...
+## 🤖 [Use My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
 
-## 🔭 What’s Next:
-- Web dashboard with live GPU routing
-- Docker containers per node
-- Voice-to-memory pipelines (Whisper + Ollama)
-- VPN-secured, MFA-protected orchestration 
+This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It exists because I needed help managing the complexity — so I built something that *could*.
 
-## 🪪 [LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/) 
+---
 
-Thanks for stopping by ✌️
+## 🔧 My Current Stack
+
+`Python`, `FastAPI`, `Gradio`, `Docker`, `Ollama`, `LM Studio`, `OpenAI`, `n8n`, `Cloudflare Tunnel`, `Whisper`, `JSON`, `Markdown`, `Bash`, `FileWatcher`
+
+---
+
+## 🌱 What’s Next
+
+- 🧭 Web dashboard for routing and GPU control
+- 🧠 Live Whisper + Ollama voice-to-memory pipeline
+- 🛡️ MFA-secured VPN access for remote model orchestration
+- 📦 Modular Docker nodes for future plugin-style tools
+
+---
+
+## 🪪 [Connect with Me on LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/)
+
+Thanks for stopping by. I’m just getting started. ✌️
