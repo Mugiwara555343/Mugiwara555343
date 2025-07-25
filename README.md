@@ -8,24 +8,24 @@ Currently, I am developing a memory-driven, modular, local-first AI assistant sy
 
 ## 🧩 Core Projects
 
-- 🔗 **Multi-Model Chaining**  
+- **Multi-Model Chaining**  
   Routed Capybara → Hermes → MythoMax for task-specific coordination  
-- 🧠 **Memory Parser + Watcher System**  
+- **Memory Parser + Watcher System**  
   Custom Python scripts (`parser.py`, `watcher.py`) that process memory logs in `.json`/`.md`, summarize tone, emotion, and intent  
-- 🐳 **Docker-Based AI Stack**  
+- **Docker-Based AI Stack**  
   Running Ollama, Open Web UI, and `n8n` in isolated containers  
-- 🌐 **Live Remote Access**  
+- **Live Remote Access**  
   Cloudflare tunnel connects Open Web UI to a secure public domain
 
 ---
 
 ## ⚙️ In Progress
 
-- 🔭 **SkyWatcher**  
+- **SkyWatcher**  
   Pulls live data from `api.nasa.gov` (meteors, comets, etc) → parsed into LLM for insight logging  
-- 🎙️ **Voice Transcriber + LLM Feedback Loop**  
+- **Voice Transcriber + LLM Feedback Loop**  
   Captures real-time audio → transcribes → routes to LLM → provides live context and suggestions  
-- 📥 **Auto-Reel Downloader**  
+- **Auto-Reel Downloader**  
   Local script for auto-downloading Instagram saved reels using headless methods
 
 ---
@@ -50,10 +50,10 @@ This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It 
 
 ## 🌱 What’s Next
 
-- 🧭 Web dashboard for routing and GPU control
-- 🧠 Live Whisper + Ollama voice-to-memory pipeline
-- 🛡️ MFA-secured VPN access for remote model orchestration
-- 📦 Modular Docker nodes for future plugin-style tools
+- Web dashboard for routing and GPU control
+- Live Whisper + Ollama voice-to-memory pipeline
+- MFA-secured VPN access for remote model orchestration
+- Modular Docker nodes for future plugin-style tools
 
 ---
 
