@@ -57,6 +57,14 @@ This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It 
 
 ---
 
+🎞️ Live Demo Preview
+
+Here’s a sneak peek of my local AI system processing memory logs in real time:
+
+<!-- Replace 'your-demo.gif' with actual filename -->
+
+---
+
 ## 🪪 [Connect with Me on LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/)
 
 Thanks for stopping by. I’m just getting started. ✌️
