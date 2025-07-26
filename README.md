@@ -42,6 +42,14 @@ This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It 
 
 ---
 
+## 🎞️ Live Demo Preview
+
+Here’s a sneak peek of my local AI system processing memory logs in real time:
+
+<!-- Replace 'your-demo.gif' with actual filename -->
+
+---
+
 ## 🔧 My Current Stack
 
 `Python`, `FastAPI`, `Gradio`, `Docker`, `Ollama`, `LM Studio`, `OpenAI`, `n8n`, `Cloudflare Tunnel`, `Whisper`, `JSON`, `Markdown`, `Bash`, `FileWatcher`
@@ -54,14 +62,6 @@ This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It 
 - Live Whisper + Ollama voice-to-memory pipeline
 - MFA-secured VPN access for remote model orchestration
 - Modular Docker nodes for future plugin-style tools
-
----
-
-🎞️ Live Demo Preview
-
-Here’s a sneak peek of my local AI system processing memory logs in real time:
-
-<!-- Replace 'your-demo.gif' with actual filename -->
 
 ---
 
