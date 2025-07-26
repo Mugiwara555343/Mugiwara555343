@@ -46,7 +46,7 @@ This GPT helps me coordinate LLMs, debug flows, and optimize model behavior. It 
 
 Here’s a sneak peek of my local AI system processing memory logs in real time:
 
-[![Memory Architecture](./model_runner.gif)]
+![Memory Architecture](./model_runner.gif)
 
 ---
 
