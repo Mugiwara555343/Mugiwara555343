@@ -11,7 +11,7 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
 - **B.A. in Game Art (Full Sail University)**  
   Trained in 3D modeling, UV unwrapping, modular environments, and PBR workflows  
 - **Tools Used**: Maya • Blender • ZBrush • Substance • Unreal • Unity  
-- **Portfolio Preview**: [Portfolio_Hero Folder](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, and textured assets)*  
+- **Portfolio Preview**: [Portfolio](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, and textured assets)*  
 - **Upcoming:** I’m building a public 3D Showcase repo to highlight work aligned with GenAI pipelines
 
 ---
