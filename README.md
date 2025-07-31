@@ -46,14 +46,6 @@ Watch my system process local memory logs — live log parsing, tone/emotion ext
 
 ---
 
-## 🎞️ Live Demo Preview
-
-Here’s a sneak peek of my local AI system processing memory logs in real time:
-
-![Memory Architecture](./model_runner.gif)
-
----
-
 ## 🤖 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
 
 I built this to debug, orchestrate, and think with me. It’s trained on my workflows and lives to reduce friction when building complex systems.
