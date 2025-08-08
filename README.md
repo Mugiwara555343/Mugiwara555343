@@ -23,6 +23,8 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
 
 ## 🧩 Core Projects
 
+- **note-to-json CLI Tool**  
+  Convert markdown notes to structured JSON offline in seconds.
 - **Multi-Model Chaining**  
   Routed Capybara → OpenChat_3.5 for task-specific coordination  
 - **Memory Parser + Watcher System**  
@@ -31,8 +33,6 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
   Running Ollama, Open Web UI, and `n8n` in isolated containers with live orchestration  
 - **Remote Access Tunneling**  
   Secured Cloudflare tunnels for public AI access to internal services
-- **note-to-json CLI Tool**  
-  Convert markdown notes to structured JSON offline in seconds.
 
 ---
 
