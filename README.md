@@ -1,5 +1,10 @@
 # 👋 Hey there, I’m Mauricio Ventura
 
+[![CI](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main)](#)
+[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo)](#)
+![License](https://img.shields.io/github/license/Mugiwara555343/note-to-json-demo)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+
 **Game Art graduate turned AI systems builder — fusing 3D pipelines with generative intelligence.**
 
 I studied hard-surface modeling and environment design using **Maya, Blender, Substance Painter**, and **Unreal Engine** before transitioning into local-first AI architecture. My current work focuses on building **offline memory-aware assistants** that run across Dockerized containers, orchestrate multiple LLMs, and adapt to real-world usage — all from my own hardware.
@@ -26,6 +31,32 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
   Running Ollama, Open Web UI, and `n8n` in isolated containers with live orchestration  
 - **Remote Access Tunneling**  
   Secured Cloudflare tunnels for public AI access to internal services
+- **note-to-json CLI Tool**  
+  Convert markdown notes to structured JSON offline in seconds.
+
+---
+
+## ⚡ Quickstart for note-to-json
+
+**Install:**  
+```bash
+pip install "git+https://github.com/Mugiwara555343/note-to-json-demo@v0.1.1"
+```
+
+**Create a demo note:**  
+- **macOS/Linux**  
+  ```bash
+  printf "# Demo note\nFelt heavy this morning but finished the work." > demo.md
+  ```
+- **Windows PowerShell**  
+  ```powershell
+  Set-Content -Encoding UTF8 demo.md "# Demo note`nFelt heavy this morning but finished the work."
+  ```
+
+**Run the parser:**  
+```bash
+note2json demo.md -o out.json
+```
 
 ---
 
@@ -70,6 +101,3 @@ I built this to debug, orchestrate, and think with me. It’s trained on my work
 ## 🪪 [Connect with Me on LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/)
 
 Thanks for stopping by — I’m building the tools I wish already existed.  
-
-
-
