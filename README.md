@@ -11,16 +11,6 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
 
 ---
 
-## 🎨 3D Art & Game Design Roots
-
-- **B.A. in Game Art (Full Sail University)**  
-  Trained in 3D modeling, UV unwrapping, modular environments, and PBR workflows  
-- **Tools Used**: Maya • Blender • ZBrush • Substance • Unreal • Unity  
-- **Portfolio Preview**: [Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, reflections and textured assets)*  
-- **Upcoming:** I’m building a public 3D Showcase repo to highlight work aligned with GenAI pipelines
-
----
-
 ## 🧩 Core Projects
 
 - **note-to-json CLI Tool**  
@@ -33,6 +23,16 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
   Running Ollama, Open Web UI, and `n8n` in isolated containers with live orchestration  
 - **Remote Access Tunneling**  
   Secured Cloudflare tunnels for public AI access to internal services
+
+---
+
+## 🎨 3D Art & Game Design Roots
+
+- **B.A. in Game Art (Full Sail University)**  
+  Trained in 3D modeling, UV unwrapping, modular environments, and PBR workflows  
+- **Tools Used**: Maya • Blender • ZBrush • Substance • Unreal • Unity  
+- **Portfolio Preview**: [Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, reflections and textured assets)*  
+- **Upcoming:** I’m building a public 3D Showcase repo to highlight work aligned with GenAI pipelines
 
 ---
 
