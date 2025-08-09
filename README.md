@@ -2,7 +2,7 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main)](#)
 [![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo)](#)
-[![License: MIT](https://img.shields.io/github/license/Mugiwara555343/note-to-json-demo?label=license&logo=github&cacheSeconds=300)](https://github.com/Mugiwara555343/note-to-json-demo/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://img.shields.io/pypi/v/note-to-json.svg)](https://pypi.org/project/note-to-json/)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
