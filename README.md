@@ -1,10 +1,10 @@
 # 👋 Hey there, I’m Mauricio Ventura
 
-[![CI](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main)](#)
-[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PyPI version](https://img.shields.io/pypi/v/note-to-json.svg)](https://pypi.org/project/note-to-json/)
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+[![CI](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github)](#)
+[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo?logo=github)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/note-to-json.svg?logo=pypi)](https://pypi.org/project/note-to-json/)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
 
 **Game Art graduate turned AI systems builder — fusing 3D pipelines with generative intelligence.**
 
