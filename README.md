@@ -3,6 +3,7 @@
 [![CI](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main)](#)
 [![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo)](#)
 ![License](https://img.shields.io/github/license/Mugiwara555343/note-to-json-demo)
+[![PyPI version](https://img.shields.io/pypi/v/note-to-json.svg)](https://pypi.org/project/note-to-json/)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **Game Art graduate turned AI systems builder — fusing 3D pipelines with generative intelligence.**
@@ -40,18 +41,19 @@ I studied hard-surface modeling and environment design using **Maya, Blender, Su
 
 **Install:**  
 ```bash
-pip install "git+https://github.com/Mugiwara555343/note-to-json-demo@v0.1.1"
+pip install note-to-json
 ```
 
 **Create a demo note:**  
 - **macOS/Linux**  
-  ```bash
-  printf "# Demo note\nFelt heavy this morning but finished the work." > demo.md
-  ```
+```bash
+printf "# Demo note\nFelt heavy this morning but finished the work." > demo.md
+```
+
 - **Windows PowerShell**  
-  ```powershell
-  Set-Content -Encoding UTF8 demo.md "# Demo note`nFelt heavy this morning but finished the work."
-  ```
+```powershell
+Set-Content -Encoding UTF8 demo.md "# Demo note`nFelt heavy this morning but finished the work."
+```
 
 **Run the parser:**  
 ```bash
