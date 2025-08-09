@@ -1,9 +1,9 @@
 # 👋 Hey there, I’m Mauricio Ventura
 <!-- Badges: consistent style / colors -->
 [![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
-[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo?logo=github&label=tag)](#)
 [![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo?logo=github&label=tag)](#)
 ![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-00c7c7?logo=python)
 ![Wheel](https://img.shields.io/badge/wheel-yes-00c7c7)
 ![Implementation](https://img.shields.io/badge/implementation-cpython-00c7c7)
