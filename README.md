@@ -3,7 +3,6 @@
 [![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
 [![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
-![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-00c7c7?logo=python)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?style=flat&logo=google-drive)](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mugiwara555343)
