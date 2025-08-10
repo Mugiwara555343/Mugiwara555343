@@ -3,107 +3,103 @@
 [![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
 [![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/github/v/tag/Mugiwara555343/note-to-json-demo?logo=github&label=tag)](#)
 ![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-00c7c7?logo=python)
-![Wheel](https://img.shields.io/badge/wheel-yes-00c7c7)
-![Implementation](https://img.shields.io/badge/implementation-cpython-00c7c7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?style=flat&logo=google-drive)](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mugiwara555343)
 
-
-
-**Game Art graduate turned AI systems builder — fusing 3D pipelines with generative intelligence.**
-
-I studied hard-surface modeling and environment design using **Maya, Blender, Substance Painter**, and **Unreal Engine** before transitioning into local-first AI architecture. My current work focuses on building **offline memory-aware assistants** that run across Dockerized containers, orchestrate multiple LLMs, and adapt to real-world usage — all from my own hardware.
+**Game Art graduate turned AI systems builder** — fusing 3D pipelines with generative intelligence to create **local-first, memory-aware AI assistants**.
 
 ---
 
-## 🧩 Core Projects
+## 🎯 What I Do
 
-- **note-to-json CLI Tool**  
-  Convert markdown notes to structured JSON offline in seconds.
-- **Multi-Model Chaining**  
-  Routed Capybara → OpenChat_3.5 for task-specific coordination  
-- **Memory Parser + Watcher System**  
-  Python scripts (`parser.py`, `watcher.py`) that process `.json`/`.md` logs, summarizing tone, emotion, and user intent  
-- **Docker-Based AI Stack**  
-  Running Ollama, Open Web UI, and `n8n` in isolated containers with live orchestration  
-- **Remote Access Tunneling**  
-  Secured Cloudflare tunnels for public AI access to internal services
+I design and build **offline AI systems** that orchestrate multiple LLMs, parse and persist memory, and automate complex workflows without relying on cloud services. My work focuses on creating intelligent tools that learn from user interactions and maintain context across sessions.
 
 ---
 
-## 🎨 3D Art & Game Design Roots
+## 🛠️ Technical Stack
 
-- **B.A. in Game Art (Full Sail University)**  
-  Trained in 3D modeling, UV unwrapping, modular environments, and PBR workflows  
-- **Tools Used**: Maya • Blender • ZBrush • Substance • Unreal • Unity  
-- **Portfolio Preview**: [Google Drive](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, reflections and textured assets)*  
-- **Upcoming:** I’m building a public 3D Showcase repo to highlight work aligned with GenAI pipelines
+### **Core Technologies**
+- **Languages:** Python, Bash, JavaScript, Markdown, JSON
+- **Frameworks:** FastAPI, Docker, n8n, Gradio, Open Web UI
+- **AI/ML:** Ollama, LM Studio, Whisper, llama.cpp, Custom GPTs
+- **Infrastructure:** Cloudflare Tunnels, GPU-aware routing, Container orchestration
+
+### **AI Models I Work With**
+- **Open Source:** Capybara, Hermes, MythoMax, DeepSeek, OpenChat
+- **Custom:** Multi-model chaining, Memory-aware assistants, Context routing
 
 ---
 
-## ⚡ Quickstart for note-to-json
+## 🚀 Featured Projects
 
-**Install:**  
+### **📦 note-to-json** | [Live Demo](https://github.com/Mugiwara555343/note-to-json-demo)
+A lightweight Python package that converts **Markdown notes → structured JSON** with intelligent parsing and live file watching.
+
 ```bash
 pip install note-to-json
+note2json input.md --output structured.json
 ```
 
-**Create a demo note:**  
-- **macOS/Linux**  
-```bash
-printf "# Demo note\nFelt heavy this morning but finished the work." > demo.md
-```
+**Key Features:**
+- **CLI Interface** with stdin/stdout support
+- **Live File Watching** for real-time conversion
+- **Schema Validation** with metadata extraction
+- **PyPI Package** with automated CI/CD
+- **Cross-platform** compatibility (Windows, macOS, Linux)
 
-- **Windows PowerShell**  
-```powershell
-Set-Content -Encoding UTF8 demo.md "# Demo note`nFelt heavy this morning but finished the work."
-```
-
-**Run the parser:**  
-```bash
-note2json demo.md -o out.json
-```
+**Technical Highlights:**
+- Automated testing with pytest
+- GitHub Actions CI pipeline
+- JSON schema validation
+- Debounced file watching system
+- Memory-efficient parsing
 
 ---
 
-## ⚙️ In Progress
+## 🎨 Creative Background
 
-- **SkyWatcher**  
-  Live data from `api.nasa.gov` → fed into LLM for reflective prompts  
-- **Voice Transcriber + Feedback Loop**  
-  Audio → Whisper STT → LLM response for real-time memory injection  
-- **Auto Reel Downloader**  
-  Tool for scraping + storing Instagram saves for later input into attention-mapping workflows
+**B.A. in Game Art (Full Sail University)** — Trained in:
+- 3D modeling, UV unwrapping, modular environments
+- PBR workflows and texture creation
+- **Tools:** Maya, Blender, ZBrush, Substance, Unreal Engine, Unity
 
----
-
-## 🎥 [Watcher & Parser Demo (2 min)](https://www.youtube.com/watch?v=XArldnlAzNk&list=PLJZZVgAZEPgRKOkU9iObWylXccGp8RQKH&index=1)
-
-Watch my system process local memory logs — live log parsing, tone/emotion extraction, and real-time injection into LLM context windows.
+**Portfolio:** [3D Art Showcase](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, textured assets)*
 
 ---
 
-## 🤖 [Try My Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)
+## 🔬 Current Research & Development
 
-I built this to debug, orchestrate, and think with me. It’s trained on my workflows and lives to reduce friction when building complex systems.
+### **SkyWatcher**
+Live data from `api.nasa.gov` → fed into LLM for reflective prompts and astronomical insights.
 
----
+### **Voice Transcriber + Feedback Loop**
+Audio → Whisper STT → LLM response for real-time memory injection and context building.
 
-## 🛠️ My Current Stack
-
-`Python`, `FastAPI`, `Docker`, `Ollama`, `LM Studio`, `n8n`, `Gradio`, `Open Web UI`, `Cloudflare Tunnel`, `Whisper`, `Markdown`, `JSON`, `Bash`, `Git`, `Pop!_OS`, `Windows`
-
----
-
-## 🌱 What’s Next
-
-- Modular Web Dashboard (routing, model override, GPU monitor)
-- AI-generated Markdown memory with full history diff
-- Plugin-based architecture using Docker node chaining
-- Local photo-to-text → object memory pipelines (early research)
+### **Auto Reel Downloader**
+Tool for scraping + storing Instagram saves for later input into attention-mapping workflows.
 
 ---
 
-## 🪪 [Connect with Me on LinkedIn](https://www.linkedin.com/in/mauricio-ventura-52a14425a/)
+## 🎥 Demos & Documentation
 
-Thanks for stopping by — I’m building the tools I wish already existed.  
+- **[Memory Parser Demo (2 min)](https://www.youtube.com/watch?v=XArldnlAzNk&list=PLJZZVgAZEPgRKOkU9iObWylXccGp8RQKH&index=1)** - Watch my system process local memory logs
+- **[Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)** - Built for debugging and orchestrating complex AI systems
+
+---
+
+## 💬 Let's Connect
+
+I'm building the tools I wish already existed. If you're interested in:
+- **AI system architecture**
+- **Local-first AI development**
+- **Multi-model orchestration**
+- **Memory-aware systems**
+- **3D art + AI integration**
+
+**Reach out:** [LinkedIn](https://linkedin.com/in/mauricio-ventura-52a14425a) | [Portfolio](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
+
+---
+
+*"Fusing 3D pipelines with generative intelligence to build the future of local AI."*
