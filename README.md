@@ -1,10 +1,10 @@
 # 👋 Hey there, I’m Mauricio Ventura
 <!-- Badges: consistent style / colors -->
-[![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
-[![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?style=flat&logo=google-drive)](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
+[![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
+[![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mugiwara555343)
 
 **Game Art graduate turned AI systems builder** — fusing 3D pipelines with generative intelligence to create **local-first, memory-aware AI assistants**.
