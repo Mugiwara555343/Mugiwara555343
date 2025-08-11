@@ -13,7 +13,7 @@
 
 ## 🎯 What I Do
 
-I design and build **offline AI systems** that orchestrate multiple LLMs, parse and persist memory, and automate complex workflows without relying on cloud services. My work focuses on creating intelligent tools that learn from user interactions and maintain context across sessions.
+Without depending on cloud services, I design and develop **offline AI systems** that automate complex workflows, parse and persist memory, and coordinate multiple LLMs. Developing intelligent tools that retain context between sessions and learn from user interactions is the main goal of my work.
 
 ---
 
