@@ -33,9 +33,9 @@ Without depending on cloud services, I design and develop **offline AI systems**
 
 ## 🚀 Featured Projects
 
-### **📦 note-to-json** | [Live Demo](https://github.com/Mugiwara555343/note-to-json-demo)
-A lightweight Python package that converts **Markdown notes → structured JSON** with intelligent parsing and live file watching.
-
+### ***📦 note2json*** | [Live Demo](https://github.com/Mugiwara555343/note-to-json-demo)
+A CLI tool that converts Markdown, text, or JSON into clean, structured JSON.  
+Fast. Offline. Zero setup beyond Python + pip.
 ```bash
 pip install note-to-json
 note2json input.md --output structured.json
