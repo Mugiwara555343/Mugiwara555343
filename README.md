@@ -26,7 +26,7 @@ Without depending on cloud services, I design and develop **offline AI systems**
 - **Infrastructure:** Cloudflare Tunnels, GPU-aware routing, Container orchestration
 
 ### **AI Models I Work With**
-- **Open Source:** Capybara, Hermes, MythoMax, DeepSeek, OpenChat
+- **Open Source:** Capybara, Hermes, MythoMax, DeepSeek, OpenChat, etc...
 - **Custom:** Multi-model chaining, Memory-aware assistants, Context routing
 
 ---
