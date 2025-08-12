@@ -5,7 +5,7 @@
 [![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
 [![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mugiwara555343)
+[![Publish](https://github.com/Mugiwara555343/note2json/actions/workflows/publish.yml/badge.svg)](https://github.com/Mugiwara555343/note2json/actions/workflows/publish.yml)
 
 **Game Art graduate turned AI systems builder** — fusing 3D pipelines with generative intelligence to create **local-first, memory-aware AI assistants**.
 
