@@ -64,7 +64,7 @@ note2json input.md --output structured.json
 - PBR workflows and texture creation
 - **Tools:** Maya, Blender, ZBrush, Substance, Unreal Engine, Unity
 
-**Portfolio:** [3D Art Showcase](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc) *(props, dioramas, textured assets)*
+**Portfolio:** [3D Art Showcase](https://github.com/Mugiwara555343/3d-showcase) *(props, dioramas, textured assets)*
 
 ---
 
