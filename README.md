@@ -20,7 +20,7 @@ Without depending on cloud services, I design and develop **offline AI systems**
 [![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
 [![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
-[![Publish](https://github.com/Mugiwara555343/note2json/actions/workflows/publish.yml/badge.svg)](https://github.com/Mugiwara555343/note2json/actions/workflows/publish.yml)
+
 
 ### **Core Technologies**
 - **Languages:** Python, Bash, JavaScript, Markdown, JSON
