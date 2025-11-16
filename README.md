@@ -1,70 +1,109 @@
-# 👋 Hey, I’m Mauricio Ventura
 
-**AI Systems Builder** — creating **local-first, memory-aware assistants** that run offline and coordinate multiple LLMs.  
-*(Game Art background → now fusing 3D pipelines with generative intelligence.)*
+
+# Mauricio A. Ventura
+
+**AI Systems Engineer (RAG · Python · Docker · Qdrant · LLMs)**  
+Local-first LLM architecture · Retrieval systems · Offline AI tooling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mugiwara555343)
 [![3D Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?logo=google-drive)](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
 
----
 
-## 🚀 Featured Projects
-- **[jsonify2ai](https://github.com/Mugiwara555343/jsonify2ai)** → End-to-end pipeline: drop files → clean JSON → RAG-ready chunks.  
-- **[note2json](https://github.com/Mugiwara555343/note-to-json-demo)** → CLI + PyPI package for fast, offline parsing.  
-- **[Memory Parser Demo (YouTube)](https://www.youtube.com/watch?v=XArldnlAzNk)** → 2-min walkthrough of my local-first memory system.
 
----
+### 👋 About me
 
-## 🎯 What I Do
-Without depending on cloud services, I design and develop **offline AI systems** that automate workflows, parse and persist memory, and coordinate multiple LLMs. My focus is on tools that retain context between sessions and learn from user interactions.
+Self-taught AI Systems Engineer building **local-first RAG pipelines**, vector search, and LLM-backed applications on top of Python, Docker, Qdrant, and Ollama.
 
----
+I design end-to-end systems that:
 
-## 🛠️ Technical Stack
-[![PyPI](https://img.shields.io/pypi/v/note-to-json?logo=pypi&label=pypi)](https://pypi.org/project/note-to-json/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=github)](https://opensource.org/licenses/MIT)
-[![Build](https://img.shields.io/github/actions/workflow/status/Mugiwara555343/note-to-json-demo/python-ci.yml?branch=main&logo=github&label=build)](#)
+- Ingest messy local files (TXT, MD, PDF, CSV, HTML, DOCX, images, audio)
+- Normalize them into structured JSON / JSONL
+- Generate embeddings and index them in a vector database (Qdrant)
+- Expose semantic search and “ask” workflows via APIs and a simple web UI
+- Run fully offline on consumer hardware
 
-### **Core Technologies**
-- **Languages:** Python, Bash, JavaScript, Markdown, JSON  
-- **Frameworks:** FastAPI, Docker, n8n, Gradio, Open Web UI  
-- **AI/ML:** Ollama, LM Studio, Whisper, llama.cpp, Custom GPTs  
-- **Infrastructure:** Cloudflare Tunnels, GPU-aware routing, Container orchestration  
+My background in operations and support sharpened my instincts for reliability, documentation, workflow design, and fast troubleshooting. I care about **reproducibility, observability, and clear architecture**, not just demos.
 
-### **AI Models I Work With**
-- **Open Source:** Capybara, Hermes, MythoMax, DeepSeek, OpenChat, etc.  
-- **Custom:** Multi-model chaining, Memory-aware assistants, Context routing  
+I’m currently looking for roles as an **AI Systems / RAG Engineer** or **AI Automation / Integrations Engineer**.
 
 ---
 
-## 🎨 Creative Background
-**B.A. in Game Art (Full Sail University)** — Skilled in 3D modeling, modular environments, and PBR workflows.  
-- **Tools:** Maya, Blender, ZBrush, Substance, Unreal Engine, Unity  
-- **Portfolio:** [3D Art Showcase](https://github.com/Mugiwara555343/3d-showcase) *(props, dioramas, textured assets)*  
+### 🧠 What I build
+
+- **Local-first AI memory systems** – RAG pipelines that don’t depend on the cloud
+- **Dropzone → JSONL ingestion tools** – deterministic, idempotent, schema-validated
+- **Vector-backed search** – Qdrant-based semantic retrieval for personal or team knowledge
+- **LLM-backed APIs & workers** – FastAPI services, workers, and health/smoke checks
+- **Developer-facing tools** – prompt libraries, token-efficient flows, and automations
 
 ---
 
-## 🔬 Current R&D
-- **SkyWatcher** → Live NASA data → LLM reflection & astronomical insights  
-- **Voice Transcriber Loop** → Audio → Whisper STT → LLM response → memory injection  
-- **Auto Reel Downloader** → Scrapes & stores Instagram saves for workflow inputs  
+### 🚀 Core projects
+
+#### 🔹 [jsonify2ai](https://github.com/Mugiwara555343/jsonify2ai)
+Local-first AI memory / RAG system.
+
+- Multi-format ingestion: TXT/MD/PDF/CSV/HTML/DOCX/IMG/AUDIO → normalized JSONL
+- Embeddings stored in **Qdrant** for semantic search and filtered retrieval
+- **Dockerized stack**: API, worker, Qdrant, web UI
+- Health endpoints + **smoke scripts** to verify vector points, API/worker liveness, and exports
+- Optional LLM synthesis via **Ollama** (fully offline)
+
+> _Goal: a universal “throw-anything-at-it” ingestion + retrieval engine for local AI systems._
 
 ---
 
-## 🎥 Demos & Documentation
-- **[Memory Parser Demo (2 min)](https://www.youtube.com/watch?v=XArldnlAzNk&list=PLJZZVgAZEPgRKOkU9iObWylXccGp8RQKH&index=1)**  
-- **[Custom GPT Assistant](https://chatgpt.com/g/g-686d56d1a8048191bd32fdb5704d2eb4-memoryarchitect-gpt)**  
+#### 🔹 [note2json](https://github.com/Mugiwara555343/note-to-json-demo)
+Real-time Markdown/TXT watcher → JSON.
+
+- Converts notes to JSON in sub-second time
+- Schema-validated via `jsonschema`
+- Deterministic IDs for idempotent re-runs
+- Designed as the ingestion spine for larger memory/RAG systems
 
 ---
 
-## 💬 Let’s Connect
-I’m building the tools I wish already existed. If you’re into:  
-- AI system architecture  
-- Local-first AI development  
-- Multi-model orchestration  
-- Memory-aware systems  
-- 3D art + AI integration  
+#### 🔹 [cursor-coding-agent-os (fork)](https://github.com/Mugiwara555343/cursor-coding-agent-os)
+Prompt and flow rework for a local-first coding agent.
+
+- Re-engineered prompt library and flows
+- Cut average token usage by ≈60% on low-VRAM local models
+- Focus on cost control, determinism, and better behavior for constrained hardware
+
+---
+
+### 🧰 Tech stack
+
+**AI / RAG / LLM**
+- RAG pipelines · embeddings · vector search · semantic retrieval  
+- Large Language Models (LLM) · local model orchestration (Ollama)  
+- Prompt engineering · text generation
+
+**Backend / Infra**
+- Python · FastAPI  
+- Docker · Docker Compose  
+- Qdrant · JSON / JSONL  
+- Bash / Shell scripting · Git  
+- Linux & Windows environments
+
+**Dev tools**
+- VS Code · Open WebUI · LM Studio  
+- Markdown · basic TypeScript/React for UI wiring
+
+---
+
+### 🎯 What I’m looking for
+
+I’m actively open to:
+
+- **AI Systems Engineer / RAG Engineer** roles  
+- **AI Automation / Integrations Engineer** roles  
+- Early-stage teams building local-first AI tools, internal copilots, or retrieval systems
+
+If you’re working on AI systems, local-first tooling, or retrieval-heavy products and want someone who has already built full pipelines end-to-end, feel free to reach out.
+
+---
 
 **Reach out:** [LinkedIn](https://linkedin.com/in/mauricio-ventura-52a14425a) | [Portfolio](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
 
