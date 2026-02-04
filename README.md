@@ -1,6 +1,6 @@
 
 
-# Mauricio A. Ventura
+# Mauricio D. Alexander
 
 **AI Systems Engineer (RAG · Python · Docker · Qdrant · LLMs)**  
 Local-first LLM architecture · Retrieval systems · Offline AI tooling
