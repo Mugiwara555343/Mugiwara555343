@@ -3,7 +3,6 @@
 # Mauricio D. Alexander
 
 **AI Systems Engineer (RAG · Python · Docker · Qdrant · LLMs)**  
-Local-first LLM architecture · Retrieval systems · Offline AI tooling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mugiwara555343)
@@ -13,9 +12,9 @@ Local-first LLM architecture · Retrieval systems · Offline AI tooling
 
 ### 👋 About me
 
-Self-taught AI Systems Engineer building **local-first RAG pipelines**, vector search, and LLM-backed applications on top of Python, Docker, Qdrant, and Ollama.
+I am a self-taught AI Systems Engineer building **local-first RAG pipelines**, vector search, and LLM-backed applications on top of Python, Docker, Qdrant, and Ollama.
 
-I design end-to-end systems that:
+I have designed end-to-end systems that:
 
 - Ingest messy local files (TXT, MD, PDF, CSV, HTML, DOCX, images, audio)
 - Normalize them into structured JSON / JSONL
