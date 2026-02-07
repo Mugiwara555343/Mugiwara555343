@@ -1,111 +1,66 @@
-
-
-# Mauricio D. Alexander
-
-**AI Systems Engineer (RAG · Python · Docker · Qdrant · LLMs)**  
+# Mauricio V. Alexander
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mugiwara555343)
 [![3D Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?logo=google-drive)](https://github.com/Mugiwara555343/3d-showcase)
 
+### AI Systems Orchestrator | Local RAG & Infrastructure Architect
 
-
-### 👋 About me
-
-I am a self-taught AI Systems Engineer building **local-first RAG pipelines**, vector search, and LLM-backed applications on top of Python, Docker, Qdrant, and Ollama.
-
-I have designed end-to-end systems that:
-
-- Ingest messy local files (TXT, MD, PDF, CSV, HTML, DOCX, images, audio)
-- Normalize them into structured JSON / JSONL
-- Generate embeddings and index them in a vector database (Qdrant)
-- Expose semantic search and “ask” workflows via APIs and a simple web UI
-- Run fully offline on consumer hardware
-
-My background in operations and support sharpened my instincts for reliability, documentation, workflow design, and fast troubleshooting. I care about **reproducibility, observability, and clear architecture**, not just demos.
-
-I’m currently looking for roles as an **AI Systems / RAG Engineer** or **AI Automation / Integrations Engineer**.
+I build systems that bridge the gap between "Raw Data" and "AI Intelligence." My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
 
 ---
 
-### 🧠 What I build
-
-- **Local-first AI memory systems** – RAG pipelines that don’t depend on the cloud
-- **Dropzone → JSONL ingestion tools** – deterministic, idempotent, schema-validated
-- **Vector-backed search** – Qdrant-based semantic retrieval for personal or team knowledge
-- **LLM-backed APIs & workers** – FastAPI services, workers, and health/smoke checks
-- **Developer-facing tools** – prompt libraries, token-efficient flows, and automations
+## ⚡ The "400K" Breakthrough
+My current architectural focus is on high-density data ingestion. I have successfully engineered a pipeline capable of:
+- **Massive Context Ingestion:** Handling **400K+ character files** with zero-loss retrieval.
+- **Multi-Source Synthesis:** Orchestrating LLMs to cross-reference multiple disparate data sources to generate a single, high-fidelity response.
+- **Zero-Cloud Dependency:** Running the entire stack (Embeddings, Vector DB, LLM) locally via Docker and Ollama.
 
 ---
 
-### 🚀 Core projects
+## 🧠 My Engineering Philosophy
+I operate as a **Natural Language Architect**. Instead of manual syntax grinding, I leverage AI as a high-level collaborator to design, debug, and deploy complex infrastructures. 
 
-#### 🔹 [jsonify2ai](https://github.com/Mugiwara555343/jsonify2ai)
-Local-first AI memory / RAG system.
-
-- Multi-format ingestion: TXT/MD/PDF/CSV/HTML/DOCX/IMG/AUDIO → normalized JSONL
-- Embeddings stored in **Qdrant** for semantic search and filtered retrieval
-- **Dockerized stack**: API, worker, Qdrant, web UI
-- Health endpoints + **smoke scripts** to verify vector points, API/worker liveness, and exports
-- Optional LLM synthesis via **Ollama** (fully offline)
-
-> _Goal: a universal “throw-anything-at-it” ingestion + retrieval engine for local AI systems._
+**I focus on the "Structural Integrity" of the system:**
+- **Vector Search:** Using **Qdrant** for semantic retrieval that outperforms traditional keyword search.
+- **Containerization:** Using **Docker** to ensure my systems are reproducible and scalable.
+- **Data Pipelines:** Building deterministic ingestion tools that turn "messy" data into structured JSON/JSONL.
 
 ---
 
-#### 🔹 [note2json](https://github.com/Mugiwara555343/note-to-json-demo)
-Real-time Markdown/TXT watcher → JSON.
+## 🚀 Featured Projects
 
-- Converts notes to JSON in sub-second time
-- Schema-validated via `jsonschema`
-- Deterministic IDs for idempotent re-runs
-- Designed as the ingestion spine for larger memory/RAG systems
+### [jsonify2ai](https://github.com/Mugiwara555343/jsonify2ai)
+*The Universal Ingestion Engine.*
+- **Problem:** AI models are only as good as the data they can remember.
+- **Solution:** A local-first RAG system that normalizes TXT, PDF, CSV, and Images into a unified JSONL format for instant semantic indexing.
+- **Stack:** Python, FastAPI, Docker, Qdrant, Ollama.
 
----
+### [note2json](https://github.com/Mugiwara555343/note2json)
+*Real-time Memory Spine.*
+- A lightweight watcher that converts Markdown/TXT notes into structured JSON in sub-second time, enabling "Live Memory" for local LLM agents.
 
-#### 🔹 [cursor-coding-agent-os (fork)](https://github.com/Mugiwara555343/cursor-coding-agent-os)
-Prompt and flow rework for a local-first coding agent.
-
-- Re-engineered prompt library and flows
-- Cut average token usage by ≈60% on low-VRAM local models
-- Focus on cost control, determinism, and better behavior for constrained hardware
+### [Agent Reworks](https://github.com/Mugiwara555343/cursor-coding-agent-os)
+- Optimized local coding agent flows, reducing token consumption by ~60% to enable high-performance development on constrained local VRAM.
 
 ---
 
-### 🧰 Tech stack
-
-**AI / RAG / LLM**
-- RAG pipelines · embeddings · vector search · semantic retrieval  
-- Large Language Models (LLM) · local model orchestration (Ollama)  
-- Prompt engineering · text generation
-
-**Backend / Infra**
-- Python · FastAPI  
-- Docker · Docker Compose  
-- Qdrant · JSON / JSONL  
-- Bash / Shell scripting · Git  
-- Linux & Windows environments
-
-**Dev tools**
-- VS Code · Open WebUI · LM Studio  
-- Markdown · basic TypeScript/React for UI wiring
+## 🧰 Technical Arsenal
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / RAG** | Qdrant, Ollama, Embeddings, Multi-source Synthesis, Prompt Engineering |
+| **Infrastructure** | Docker, Docker Compose, Linux, Bash Scripting |
+| **Backend** | Python (Orchestration), FastAPI, JSON/JSONL Schema Validation |
+| **Methodology** | AI-Collaborative Development, Local-First Architecture, Privacy-Centric Design |
 
 ---
 
-### 🎯 What I’m looking for
+## 🎯 Seeking
+I am looking for roles where **System Design** and **AI Integration** meet. 
+- **AI Systems / RAG Engineer**
+- **AI Automation Specialist**
+- **Technical Operations (AI-First teams)**
 
-I’m actively open to:
+[LinkedIn](https://linkedin.com/in/mauricio-ventura-52a14425a) | [Portfolio](https://github.com/Mugiwara555343/3d-showcase)
 
-- **AI Systems Engineer / RAG Engineer** roles  
-- **AI Automation / Integrations Engineer** roles  
-- Early-stage teams building local-first AI tools, internal copilots, or retrieval systems
-
-If you’re working on AI systems, local-first tooling, or retrieval-heavy products and want someone who has already built full pipelines end-to-end, feel free to reach out.
-
----
-
-**Reach out:** [LinkedIn](https://linkedin.com/in/mauricio-ventura-52a14425a) | [Portfolio](https://drive.google.com/drive/folders/1dkPJfTs0yhIqHl96e7kushHLTKjZIwOc)
-
----
-
-> *Building AI that remembers, runs offline, and scales locally.*
+> *"Building AI that remembers, runs offline, and belongs to the user."*
