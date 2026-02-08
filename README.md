@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mugiwara555343)
 [![3D Portfolio](https://img.shields.io/badge/Portfolio-3D%20Art-red?logo=google-drive)](https://github.com/Mugiwara555343/3d-showcase)
 
-### AI Systems Orchestrator | Local RAG & Infrastructure Architect
+### AI Systems Orchestrator/Engineer  | Local RAG & Infrastructure Architect
 
 I build systems that bridge the gap between "Raw Data" and "AI Intelligence." My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
 
