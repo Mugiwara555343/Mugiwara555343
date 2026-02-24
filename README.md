@@ -1,19 +1,11 @@
-# Mauricio V.
+# Mauricio V👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mauricio-ventura-52a14425a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Mugiwara555343)
 
-### AI Systems Orchestrator/Engineer  | Local RAG & Infrastructure Architect
+### 👉 AI Systems Orchestrator/Engineer  | Local RAG & Infrastructure Architect
 
-I build systems that bridge the gap between "Raw Data" and "AI Intelligence." My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
-
----
-
-## ⚡ The "400K" Breakthrough
-My current architectural focus is on high-density data ingestion. I have successfully engineered a pipeline capable of:
-- **Massive Context Ingestion:** Handling **400K+ character files** with zero-loss retrieval.
-- **Multi-Source Synthesis:** Orchestrating LLMs to cross-reference multiple disparate data sources to generate a single, high-fidelity response.
-- **Zero-Cloud Dependency:** Running the entire stack (Embeddings, Vector DB, LLM) locally via Docker and Ollama.
+Hi thanks for stopping by, I have built systems that bridge the gap between "Raw Data" and "AI Intelligence." My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
 
 ---
 
