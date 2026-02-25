@@ -5,7 +5,7 @@
 
 ### 👉 AI Systems Orchestrator/Engineer  | Local RAG & Infrastructure Architect
 
-Hi thanks for stopping by, a bit about me: I have built systems that bridge the gap between "Raw Data" and "AI Intelligence." All without a CS Degree or any foraml training/credntials.. My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
+Hi thanks for stopping by, a bit about me... I have built systems that bridge the gap between "Raw Data" and "AI Intelligence." All without a CS Degree or any foraml training/credntials.. My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
 
 ---
 
