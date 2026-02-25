@@ -5,7 +5,7 @@
 
 ### 👉 AI Systems Orchestrator/Engineer  | Local RAG & Infrastructure Architect
 
-Hi thanks for stopping by, I have built systems that bridge the gap between "Raw Data" and "AI Intelligence." My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
+Hi thanks for stopping by, a bit about me: I have built systems that bridge the gap between "Raw Data" and "AI Intelligence." All without a CS Degree or any foraml training/credntials.. My focus is on **Local Sovereignty**: creating high-performance RAG pipelines that run entirely on consumer hardware without compromising data privacy.
 
 ---
 
@@ -31,10 +31,11 @@ I operate as a **Natural Language Architect**. Instead of manual syntax grinding
 *Real-time Memory Spine.*
 - A lightweight watcher that converts Markdown/TXT notes into structured JSON in sub-second time, enabling "Live Memory" for local LLM agents.
 
-### [Agent Reworks](https://github.com/Mugiwara555343/cursor-coding-agent-os)
+## 🤖 Agent/Repo Reworks
+### [cursor-coding-agent-os](https://github.com/Mugiwara555343/cursor-coding-agent-os)
 - Optimized local coding agent flows, reducing token consumption by ~60% to enable high-performance development on constrained local VRAM.
-
----
+### [Mugibot](https://github.com/Mugiwara555343/MugiBot)
+- My own twist on: "🐈 nanobot: The Ultra-Lightweight OpenClaw" 
 
 ## 🧰 Technical Arsenal
 | Category | Tools & Technologies |
